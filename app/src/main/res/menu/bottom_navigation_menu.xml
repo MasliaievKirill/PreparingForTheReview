@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/database"
+        android:icon="@drawable/ic_database"
+        android:title="@string/db" />
+    <item
+        android:id="@+id/item_one"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="item1" />
+    <item
+        android:id="@+id/item_two"
+        android:icon="@drawable/ic_pie_chart"
+        android:title="item2" />
+
+    <item
+        android:id="@+id/item_three"
+        android:icon="@drawable/ic_line_chart_line"
+        android:title="item3" />
+</menu>
